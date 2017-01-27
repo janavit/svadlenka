@@ -1,0 +1,4 @@
+---
+layout: product
+title: Vzorník
+---

@@ -1,7 +1,38 @@
 .welcome-text {
+	padding-top: 40px;
 	padding-bottom: 16px;
 }
 
 .contact p {
 	font-size: 16px;
+}
+
+li.active a {
+	color: #747704;
+	font-size: 30px;
+}
+
+nav ul{
+    margin-top: 32px;
+    font-size: 24px;
+    text-align: right;
+    padding: 0px;
+    list-style: none;
+}
+nav ul li {
+    display: inline;
+    margin-left: 20px;
+}
+a {
+    text-decoration: none;
+    color: #999;
+}
+a:hover {
+    color: #747704;
+    text-decoration: none;
+}
+
+.contact-short{
+	margin-top: 85px;
+	color: black;
 }

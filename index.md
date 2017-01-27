@@ -16,20 +16,20 @@ home: true
 </div>
 <div class="row text-center">
     <div class="col-md-3">
-        <img class="img-responsive" src="img/kolekcew.jpg" alt="ubrusy">
+        <a href="/ubrusy.html"><img class="img-responsive" src="img/kolekcew.jpg" alt="ubrusy"></a>
         <h3><a href="/ubrusy.html">Ubrusy</a></h3>
     </div>
     <div class="col-md-3">
-        <img class="img-responsive" src="img/zasteraw.jpg" alt="zástery">
+        <a href="/zastery.html"><img class="img-responsive" src="img/zasteraw.jpg" alt="zástery"></a>
         <h3><a href="/zastery.html">Zástěry</a></h3>
     </div>
     <div class="col-md-3">
-        <img class="img-responsive" src="img/vzornik2w.jpg" alt="dopňky">
-        <h3><a href="http://github.com">Doplňky</a></h3>
+        <a href="/doplnky.html"><img class="img-responsive" src="img/vzornik2w.jpg" alt="doplňky"></a>
+        <h3><a href="/doplnky.html">Doplňky</a></h3>
     </div>
     <div class="col-md-3">
-        <img class="img-responsive" src="img/vzornik1w.jpg" alt="vzorkovník">
-        <h3><a href="http://github.com">Vzorník</a></h3>
+        <a href="/vzornik.html"><img class="img-responsive" src="img/vzornik1w.jpg" alt="vzorník"></a>
+        <h3><a href="/vzornik.html">Vzorník</a></h3>
     </div>
 </div>
     
