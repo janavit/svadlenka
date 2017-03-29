@@ -16,11 +16,11 @@ home: true
 </div>
 <div class="row text-center">
     <div class="col-md-3">
-        <a href="/ubrusy.html"><img class="img-responsive" src="img/kolekcew.jpg" alt="ubrusy"></a>
+        <a href="/ubrusy.html"><img class="img-responsive" src="img/ubrusKombinacew.jpg" alt="ubrusy"></a>
         <h3><a href="/ubrusy.html">Kombinace s ubrusem</a></h3>
     </div>
     <div class="col-md-3">
-        <a href="/zastery.html"><img class="img-responsive" src="img/zasteraw.jpg" alt="zástery"></a>
+        <a href="/zastery.html"><img class="img-responsive" src="img/zasteraKombinacew.jpg" alt="zástery"></a>
         <h3><a href="/zastery.html">Kombinace se zástěrou</a></h3>
     </div>
     <div class="col-md-3">

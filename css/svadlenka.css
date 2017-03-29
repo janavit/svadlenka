@@ -47,6 +47,7 @@ img.center {
 }
 .items{
     margin-top: 10px;
+    color: black;
 }
 .items p{
     font-size: 18px;
