@@ -2,3 +2,33 @@
 layout: product
 title: Zástěry
 ---
+<div class="row">
+	<div class="col-md-3">
+		<img class="img-responsive" src="img/zasteraVelkaCervenaw.jpg" alt="Velká červená zástěra">
+		<div class="items">
+			<p>Zástěra velká dvojitá 350Kč</p>
+			<p>Chňapky 200Kč</p>
+		</div>
+	</div>
+	<div class="col-md-3">
+		<img class="img-responsive img.centre" src="img/zasteraVelkaAndelkaw.jpg" alt="Zástěra s Andělkou">
+		<div class="items">
+			<p>Zástěra jednoduchá 250Kč</p>
+			<p>Andělka malá 36cm 340Kč</p>
+		</div>
+	</div>
+	<div class="col-md-3">
+		<p style="text-align:center"><img class="img-responsive" src="img/zasteraPytlikw.jpg" alt="Zástěra s pytlíkem"></p>
+		<div class="items">
+			<p>Zástěra jednoduchá 250Kč</p>
+			<p>Pytlík 40Kč</p>
+		</div>
+	</div>
+	<div class="col-md-3">
+		<img class="img-responsive" src="img/zasteraDetskaw.jpg" alt="Dětská zástěra">
+		<div class="items">
+			<p>Zástěra dětská 180Kč</p>
+			<p>Ptáček 40Kč</p>
+		</div>
+	</div>
+</div>

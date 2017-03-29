@@ -4,12 +4,12 @@
 }
 
 .contact p {
-	font-size: 16px;
+	font-size: 18px;
 }
 
 li.active a {
 	color: #747704;
-	font-size: 30px;
+	font-size: 24px;
 }
 
 nav ul{
@@ -35,4 +35,19 @@ a:hover {
 .contact-short{
 	margin-top: 85px;
 	color: black;
+}
+
+img.center {
+    display: block;
+    margin: 0 auto;
+}
+
+.place h4{
+    color: black;
+}
+.items{
+    margin-top: 10px;
+}
+.items p{
+    font-size: 18px;
 }
