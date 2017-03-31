@@ -8,7 +8,7 @@ home: true
 </div>
 <div class="row welcome-text">    
     <div class="col-md-9 text-center">
-            <h1>Srdečně Vás vítám v mé malé galerií.</h1>
+            <h1>Srdečně Vás vítám v mé malé galerii.</h1>
             <h3>Líbí se Vám? Ráda pro Vás něco podobného ušiju.</h3>
     </div>
 </div>
