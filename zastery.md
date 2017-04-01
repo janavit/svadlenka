@@ -7,7 +7,7 @@ title: Zástěry
 		<img class="img-responsive" src="img/zasteraVelkaCervenaw.jpg" alt="Velká červená zástěra">
 		<div class="items">
 			<p>Zástěra velká dvojitá 350Kč*</p>
-			<p>Chňapky 90Kč*</p>
+			<p>Chňapka 90Kč*</p>
 		</div>
 	</div>
 	<div class="col-md-3">
