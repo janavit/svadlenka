@@ -31,10 +31,14 @@ home: true
         <img class="img-responsive" src="img/stanek3w.jpg" alt="stánek">
         <div class= "text-left place">
             <h3>Zde mě můžete potkat:</h3> 
-            <h4>01.04. Toulcův dvůr, Praha</h4>
+            <!--<h4>01.04. Toulcův dvůr, Praha</h4>
             <h4>08.04. Nymburk</h4>
             <h4>09.04. Sychrov</h4>
-            <h4>15.04. Dlaskův statek, Dolánky</h4>
+            <h4>15.04. Dlaskův statek, Dolánky</h4>-->
+            <h4>20.05. Valdštejnské slavnosti, Frýdlant</h4>
+            <h4>21.05. Valdštejnské slavnosti, Frýdlant</h4>
+            <h4>27.05. Staročeské řemeslnické trhy, Turnov</h4>
+            <h4>28.05. Staročeské řemeslnické trhy, Turnov</h4>
         </div>
     </div>
 </div>
