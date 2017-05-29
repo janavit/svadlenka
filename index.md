@@ -40,7 +40,7 @@ home: true
             <h4>27.05. Staročeské řemeslnické trhy, Turnov</h4>
             <h4>28.05. Staročeské řemeslnické trhy, Turnov</h4>-->
             <h4>03.06. Bzí</h4>
-            <h4>17.06. Rynovice</h4>
+            <h4>17.06. Rýnovice</h4>
             <h4>17.06. Nová Paka</h4>
             <h4>01.07. Hejnice</h4>
             <h4>02.07. Hejnice</h4>
