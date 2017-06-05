@@ -38,7 +38,7 @@ home: true
             <h4>20.05. Valdštejnské slavnosti, Frýdlant</h4>
             <h4>21.05. Valdštejnské slavnosti, Frýdlant</h4>
             <h4>27.05. Staročeské řemeslnické trhy, Turnov</h4>
-            <h4>28.05. Staročeské řemeslnické trhy, Turnov</h4>-->
+            <h4>28.05. Staročeské řemeslnické trhy, Turnov</h4>
             <h4>03.06. Bzí</h4>-->
             <h4>17.06. Rýnovice</h4>
             <h4>17.06. Nová Paka</h4>
