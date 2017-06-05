@@ -39,11 +39,12 @@ home: true
             <h4>21.05. Valdštejnské slavnosti, Frýdlant</h4>
             <h4>27.05. Staročeské řemeslnické trhy, Turnov</h4>
             <h4>28.05. Staročeské řemeslnické trhy, Turnov</h4>-->
-            <h4>03.06. Bzí</h4>
+            <h4>03.06. Bzí</h4>-->
             <h4>17.06. Rýnovice</h4>
             <h4>17.06. Nová Paka</h4>
             <h4>01.07. Hejnice</h4>
             <h4>02.07. Hejnice</h4>
+            <h4>08.07. Třešňový jarmark, Sobotka</h4>
             <h4>22.07. Jizerka</h4>
             <h4>19.08. Štěpánka</h4>
             <h4>26.08. Pecka</h4>
