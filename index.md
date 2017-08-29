@@ -39,7 +39,7 @@ home: true
             <h4>21.05. Valdštejnské slavnosti, Frýdlant</h4>
             <h4>27.05. Staročeské řemeslnické trhy, Turnov</h4>
             <h4>28.05. Staročeské řemeslnické trhy, Turnov</h4>
-            <h4>03.06. Bzí</h4>-->
+            <h4>03.06. Bzí</h4>
             <h4>17.06. Rýnovice</h4>
             <h4>17.06. Nová Paka</h4>
             <h4>01.07. Hejnice</h4>
@@ -48,8 +48,12 @@ home: true
             <h4>22.07. Jizerka</h4>
             <h4>19.08. Štěpánka</h4>
             <h4>26.08. Pecka</h4>
-            <h4>27.08. Pecka</h4>
+            <h4>27.08. Pecka</h4>-->
             <h4>02.09. Nymburk</h4>
+            <h4>10.09. Ábelův mlýn, Dolánky</h4>
+            <h4>14.09. Jičín město pohádky</h4>
+            <h4>15.09. Jičín město pohádky</h4>
+            <h4>16.09. Jičín město pohádky</h4>
         </div>
     </div>
 </div>
