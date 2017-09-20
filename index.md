@@ -48,12 +48,15 @@ home: true
             <h4>22.07. Jizerka</h4>
             <h4>19.08. Štěpánka</h4>
             <h4>26.08. Pecka</h4>
-            <h4>27.08. Pecka</h4>-->
+            <h4>27.08. Pecka</h4>
             <h4>02.09. Nymburk</h4>
             <h4>10.09. Ábelův mlýn, Dolánky</h4>
             <h4>14.09. Jičín město pohádky</h4>
             <h4>15.09. Jičín město pohádky</h4>
-            <h4>16.09. Jičín město pohádky</h4>
+            <h4>16.09. Jičín město pohádky</h4>-->
+            <h4>24.09. Tatrhy Resslův park, Liberec</h4>
+            <h4>28.09. Dlaskův statek, Dolánky</h4>
+            <h4>07.10. Krchleby</h4>
         </div>
     </div>
 </div>
