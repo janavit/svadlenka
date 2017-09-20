@@ -56,7 +56,7 @@ home: true
             <h4>16.09. Jičín město pohádky</h4>-->
             <h4>24.09. Tatrhy Resslův park, Liberec</h4>
             <h4>28.09. Dlaskův statek, Dolánky</h4>
-            <h4>07.09. Krchleby</h4>
+            <h4>07.10. Krchleby</h4>
         </div>
     </div>
 </div>
