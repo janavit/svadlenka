@@ -53,10 +53,19 @@ home: true
             <h4>10.09. Ábelův mlýn, Dolánky</h4>
             <h4>14.09. Jičín město pohádky</h4>
             <h4>15.09. Jičín město pohádky</h4>
-            <h4>16.09. Jičín město pohádky</h4>-->
+            <h4>16.09. Jičín město pohádky</h4>
             <h4>24.09. Tatrhy Resslův park, Liberec</h4>
             <h4>28.09. Dlaskův statek, Dolánky</h4>
-            <h4>07.10. Krchleby</h4>
+            <h4>07.10. Krchleby</h4>-->
+            <h4>25.11. Nelahozeves</h4>
+            <h4>26.11. Nelahozeves</h4>
+            <h4>02.12. Sychrov</h4>
+            <h4>03.12. Sychrov</h4>
+            <h4>08.12. Turnov</h4>
+            <h4>09.12. Turnov</h4>
+            <h4>13.12. Jablonec nad Nisou</h4>
+            <h4>14.12. Jablonec nad Nisou</h4>
+            <h4>15.12. Jablonec nad Nisou</h4>
         </div>
     </div>
 </div>
