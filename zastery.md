@@ -20,7 +20,7 @@ title: Zástěry
 	<div class="col-md-3">
 		<p style="text-align:center"><img class="img-responsive" src="img/zasteraPytlikw.jpg" alt="Zástěra s pytlíkem"></p>
 		<div class="items">
-			<p>Zástěra jednoduchá 250Kč*</p>
+			<p>Zástěra jednoduchá 300Kč*</p>
 			<p>Pytlík 40Kč*</p>
 		</div>
 	</div>
