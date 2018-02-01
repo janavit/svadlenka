@@ -62,7 +62,7 @@ home: true
             <h4>02.12. Sychrov</h4>
             <h4>03.12. Sychrov</h4>
             <h4>08.12. Turnov</h4>
-            <h4>09.12. Turnov</h4>-->
+            <h4>09.12. Turnov</h4>
             <h4>13.12. Jablonec nad Nisou</h4>
             <h4>14.12. Jablonec nad Nisou</h4>
             <h4>15.12. Jablonec nad Nisou</h4>-->
