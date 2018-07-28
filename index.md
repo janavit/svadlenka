@@ -65,13 +65,26 @@ home: true
             <h4>09.12. Turnov</h4>
             <h4>13.12. Jablonec nad Nisou</h4>
             <h4>14.12. Jablonec nad Nisou</h4>
-            <h4>15.12. Jablonec nad Nisou</h4>-->
+            <h4>15.12. Jablonec nad Nisou</h4>
             <h4>24.03. Sychrov</h4>
             <h4>25.03. Sychrov</h4>
             <h4>28.03. Jablonec nad Nisou</h4>
             <h4>29.03. Jablonec nad Nisou</h4>
             <h4>30.03. Jablonec nad Nisou</h4>
-            <h4>31.03. Dlaskův statek, Dolánky</h4>
+            <h4>31.03. Dlaskův statek, Dolánky</h4>-->
+            <h4>12.08. Pouť v Březině</h4>
+            <h4>18.08. Pouť na Štěpánce</h4>
+            <h4>25.08. Pouť ve městě Pecka</h4>
+            <h4>26.08. Pouť ve městě Pecka</h4>
+            <h4>01.09. Pouť Nymburk</h4>
+            <h4>01.09. Umělecké tržiště na hradě v Litoměřicích</h4>
+            <h4>13.09. Jičín město pohádky</h4>
+            <h4>14.09. Jičín město pohádky</h4>
+            <h4>15.09. Jičín město pohádky</h4>
+            <h4>21.09. Podzimní slavnosti v Jablonci nad Nisou</h4>
+            <h4>22.09. Podzimní slavnosti v Jablonci nad Nisou</h4>
+            <h4>07.12. Vánoční trhy Turnov</h4>
+            <h4>08.12. Vánoční trhy Turnov</h4>
         </div>
     </div>
 </div>
