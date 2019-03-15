@@ -93,9 +93,7 @@ home: true
             <h4>19.12. Jablonec nad Nisou</h4>
             <h4>20.12. Jablonec nad Nisou</h4>
             <h4>21.12. Jablonec nad Nisou</h4>
-            <h4>22.12. Jablonec nad Nisou</h4>-->
-            <h4>13.04. Sychrov</h4>
-            <h4>14.04. Sychrov</h4>  
+            <h4>22.12. Jablonec nad Nisou</h4>--> 
             <h4>17.04. Jablonec nad Nisou</h4>
             <h4>18.04. Jablonec nad Nisou</h4>
             <h4>19.04. Jablonec nad Nisou</h4>
