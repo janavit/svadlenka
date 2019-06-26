@@ -93,7 +93,7 @@ home: true
             <h4>19.12. Jablonec nad Nisou</h4>
             <h4>20.12. Jablonec nad Nisou</h4>
             <h4>21.12. Jablonec nad Nisou</h4>
-            <h4>22.12. Jablonec nad Nisou</h4>--> 
+            <h4>22.12. Jablonec nad Nisou</h4> 
             <h4>17.04. Jablonec nad Nisou</h4>
             <h4>18.04. Jablonec nad Nisou</h4>
             <h4>19.04. Jablonec nad Nisou</h4>
@@ -104,7 +104,22 @@ home: true
             <h4>12.05. Zubrnice</h4>
             <h4>18.05. Valdštejnská pouť</h4>
             <h4>25.05. Turnov</h4>
-            <h4>26.05. Turnov</h4>
+            <h4>26.05. Turnov</h4>-->
+            <h4>06.07. Jablonec nad Jizerou</h4>
+            <h4>07.07. Jablonec nad Jizerou</h4>
+            <h4>27.07. Jizerka</h4>
+            <h4>28.07. Jizerka</h4>
+            <h4>27.07. Kryštofovo údolí</h4>
+            <h4>28.07. Kryštofovo údolí</h4>
+            <h4>17.08. rozhledna Štěpánka</h4>
+            <h4>24.08. Pecka</h4>
+            <h4>25.08. Pecka</h4>
+            <h4>31.08. Nymburk</h4>
+            <h4>12.09. Jičín</h4>
+            <h4>13.09. Jičín</h4>
+            <h4>14.09. Jičín</h4>
+            <h4>20.09. Jablonec nad Nisou</h4>
+            <h4>21.09. Jablonec nad Nisou</h4>
         </div>
     </div>
 </div>
