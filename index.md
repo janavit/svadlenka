@@ -104,7 +104,7 @@ home: true
             <h4>12.05. Zubrnice</h4>
             <h4>18.05. Valdštejnská pouť</h4>
             <h4>25.05. Turnov</h4>
-            <h4>26.05. Turnov</h4>-->
+            <h4>26.05. Turnov</h4>
             <h4>06.07. Jablonec nad Jizerou</h4>
             <h4>07.07. Jablonec nad Jizerou</h4>
             <h4>27.07. Jizerka</h4>
