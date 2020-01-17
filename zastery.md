@@ -13,21 +13,21 @@ title: Zástěry
 	<div class="col-md-3">
 		<img class="img-responsive img.centre" src="img/zasteraAndelkaw.jpg" alt="Zástěra s Andělkou">
 		<div class="items">
-			<p>Zástěra jednoduchá 300Kč*</p>
+			<p>Zástěra jednoduchá 320Kč*</p>
 			<p>Andělka malá 36cm 340Kč*</p>
 		</div>
 	</div>
 	<div class="col-md-3">
 		<p style="text-align:center"><img class="img-responsive" src="img/zasteraPytlikw.jpg" alt="Zástěra s pytlíkem"></p>
 		<div class="items">
-			<p>Zástěra jednoduchá 300Kč*</p>
+			<p>Zástěra jednoduchá 320Kč*</p>
 			<p>Pytlík 40Kč*</p>
 		</div>
 	</div>
 	<div class="col-md-3">
 		<img class="img-responsive" src="img/zasteraDetskaModraw.jpg" alt="Dětská zástěra">
 		<div class="items">
-			<p>Zástěra dětská 200Kč*</p>
+			<p>Zástěra dětská 220Kč*</p>
 			<p>Ptáček 40Kč*</p>
 		</div>
 	</div>
