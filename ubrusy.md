@@ -6,7 +6,7 @@ title: Ubrusy
 	<div class="col-md-3">
 		<img class="img-responsive" src="img/ubrusEdaw.jpg" alt="Ubrus s andělíčkom">
 		<div class="items">
-				<p>Ubrus 90x90cm 320Kč*</p>
+				<p>Ubrus 90x90cm 340Kč*</p>
 				<p>Anděl Eda 43cm 420Kč*</p>
 				<p>Ptáček 40Kč*</p>
 		</div>
@@ -22,7 +22,7 @@ title: Ubrusy
 	<div class="col-md-3">
 		<p style="text-align:center"><img class="img-responsive" src="img/ubrusDlhyw.jpg" alt="Dlouhý ubrus"></p>
 		<div class="items">
-			<p>Ubrus 40x115cm 230Kč*</p>
+			<p>Ubrus 40x115cm 250Kč*</p>
 			<p>Andělka 50cm 420Kč*</p>
 			<p>Andělka 36cm 340Kč*</p>
 		</div>
@@ -30,9 +30,9 @@ title: Ubrusy
 	<div class="col-md-3">
 		<img class="img-responsive" src="img/ubrusMalyw.jpg" alt="Malý ubrus">
 		<div class="items">
-			<p>Ubrus 50x50cm 180Kč*</p>
-			<p>Prostírání 33x27cm 300Kč*/4ks</p>
-			<p>Podložky 16cm 100Kč*/4ks</p>
+			<p>Ubrus 50x50cm 200Kč*</p>
+			<p>Prostírání 33x27cm 360Kč*/4ks</p>
+			<p>Podložky 16cm 160Kč*/4ks</p>
 			<p>Srdíčko velké 50Kč*</p>
 		</div>
 	</div>
