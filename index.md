@@ -119,7 +119,7 @@ home: true
             <h4>13.09. Jičín</h4>
             <h4>14.09. Jičín</h4>
             <h4>20.09. Jablonec nad Nisou</h4>
-            <h4>21.09. Jablonec nad Nisou</h4>-->
+            <h4>21.09. Jablonec nad Nisou</h4>
             <h4>23.11. Nelahozeves</h4>
             <h4>24.11. Nelahozeves</h4>
             <h4>30.11. Sychrov</h4>
@@ -127,7 +127,7 @@ home: true
             <h4>07.12. Turnov</h4>
             <h4>08.12. Turnov</h4>
             <h4>14.12. Mladá Boleslav</h4>
-            <h4>21.12. Úštěk</h4>
+            <h4>21.12. Úštěk</h4>-->
         </div>
     </div>
 </div>
